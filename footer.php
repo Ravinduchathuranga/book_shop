@@ -38,6 +38,8 @@
                                 <li class="lit"><a href="#" class="f1txt">About Us</a></li>
                                 <li class="lit"><a href="#" class="f1txt">Services</a></li>
                                 <li class="lit"><a href="#" class="f1txt">Contact Us</a></li>
+                                <li class="lit"><a href="adminLogin.php" class="f1txt">Protected User</a></li>
+
                             </ul>
                         </div>                        
                     </div>
