@@ -28,16 +28,19 @@
     color: white;
     gap: 30px;
 }
-.h6txt{
+
+.h6txt {
     font-family: "Cardo-Italic";
 }
+
 .txt1 {
     font-size: 18px;
-    text-decoration: none;    
+    text-decoration: none;
     color: white;
     font-family: "Cardo-Bold";
 }
-.txt1:hover{
+
+.txt1:hover {
     font-size: 20px;
     color: white;
 }
@@ -50,7 +53,8 @@
     font-weight: normal;
     color: white;
 }
-.ico1:hover{
+
+.ico1:hover {
     padding: 5px 5px 5px 5px;
     border-radius: 10px;
     background-color: black;
@@ -138,6 +142,7 @@
 .txt4 {
     font-family: "Cardo-Italic";
 }
+
 .btn2 {
     display: grid;
     justify-content: center;
@@ -151,9 +156,11 @@
     background-color: rgba(255, 202, 66, 1);
     text-decoration: none;
 }
-.hico{
+
+.hico {
     margin-left: 30px;
 }
+
 /* footer */
 .cont {
     height: 510px;
@@ -188,24 +195,29 @@
     font-size: 18px;
     color: white;
 }
-.f1txt:hover{
+
+.f1txt:hover {
     color: white;
     font-size: 20px;
 }
-.lit{
+
+.lit {
     list-style-type: none;
 }
-.ab1{
+
+.ab1 {
     display: grid;
     margin-top: 5%;
-    
+
 }
+
 .f2txt {
     font-family: "Cardo";
     text-decoration: none;
     font-size: 16px;
     color: white;
 }
+
 .f3txt {
     font-family: "Cardo";
     text-decoration: none;
@@ -231,6 +243,7 @@
     text-decoration: none;
     border-radius: 20px;
 }
+
 .btn4 {
     display: grid;
     justify-content: center;
@@ -245,8 +258,9 @@
     text-decoration: none;
     border-radius: 20px;
 }
-.btn3:hover{
-    display: grid;        
+
+.btn3:hover {
+    display: grid;
     align-items: center;
     font-family: "Cardo-Italic";
     width: 200px;
@@ -258,20 +272,23 @@
     text-decoration: none;
     border-radius: 20px;
 }
-.btn4:hover{
+
+.btn4:hover {
     display: grid;
     justify-content: center;
     align-items: center;
-    font-family: "Cardo-Italic"; 
+    font-family: "Cardo-Italic";
     font-weight: bold;
     color: black;
     background-color: rgb(167, 10, 10);
     text-decoration: none;
     border-radius: 20px;
 }
+
 .f4txt {
-    font-family: "Cardo-Bold";    
+    font-family: "Cardo-Bold";
 }
+
 .btn5 {
     display: grid;
     justify-content: center;
@@ -286,8 +303,23 @@
     text-decoration: none;
     border-radius: 20px;
 }
+
 /* store */
-.se{
+.se {
     position: static;
     margin-left: -22px;
+}
+
+.img6 {
+    width: 510px;
+    height: auto;
+}
+
+/* single product */
+.se1 {
+    position: static;
+    margin-left: -22px;
+    background-color: rgba(255, 202, 66, 1);
+    border: none;
+    color: black;
 }

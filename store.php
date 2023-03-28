@@ -47,7 +47,7 @@
                                         <hr>
                                         <div class="row">
                                             <div class="col-8">
-                                                <a href="" class="btn2">Order Now</a>
+                                                <a href="singleproduct..php" class="btn2">Order Now</a>
                                             </div>
                                             <div class="col-4">
                                                 <a href="" class="fs-4 hico text-danger"><i class="bi bi-heart-fill"></i></a>
